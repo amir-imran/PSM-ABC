@@ -1,0 +1,121 @@
+{
+  "classes": [
+    {
+      "id": "c1",
+      "name": "Maths",
+      "grade": "Form 2",
+      "fees": "35",
+      "tutor": "Ahmad",
+      "size": 13,
+      "numberOfStudents": 12
+    },
+    {
+      "id": "c2",
+      "name": "Science",
+      "grade": "Year 2",
+      "fees": "30",
+      "tutor": "Hazmi",
+      "size": 13,
+      "numberOfStudents": 12
+    },
+    {
+      "id": "c3",
+      "name": "Maths",
+      "grade": "Form 3",
+      "fees": "35",
+      "tutor": "Ahmad",
+      "size": 10,
+      "numberOfStudents": 10
+      },
+    {
+      "id": "c4",
+      "name": "English",
+      "grade": "Form 3",
+      "fees": "35",
+      "tutor": "Hazmi",
+      "size": 15,
+      "numberOfStudents": 9
+    },
+    {
+      "id": "c5",
+      "name": "Biology",
+      "grade": "Form 5",
+      "fees": "50",
+      "tutor": "Sivi",
+      "size": 20,
+      "numberOfStudents": 18
+    },
+    {
+      "id": "c6",
+      "name": "Maths",
+      "grade": "Year 3",
+      "fees": "30",
+      "tutor": "Pon",
+      "size": 10,
+      "numberOfStudents": 10
+    },
+    {
+      "id": "c7",
+      "name": "Chemistry",
+      "grade": "Form 3",
+      "fees": "40",
+      "tutor": "Mike",
+      "size": 10,
+      "numberOfStudents": 10
+    },
+    {
+      "id": "c8",
+      "name": "Chemistry",
+      "grade": "Form 3",
+      "fees": "40",
+      "tutor": "Luqman",
+      "size": 15,
+      "numberOfStudents": 14
+    },
+    {
+      "id": "c9",
+      "name": "Maths",
+      "grade": "Form 5",
+      "fees": "55",
+      "tutor": "Pon",
+      "size": 18,
+      "numberOfStudents": 1
+    },
+    {
+      "id": "c10",
+      "name": "Biology",
+      "grade": "Form 4",
+      "fees": "30",
+      "tutor": "Ahmad",
+      "size": 13,
+      "numberOfStudents": 2
+    },
+    {
+      "id": "c11",
+      "name": "Computer",
+      "grade": "Year 5",
+      "fees": "40",
+      "tutor": "Dzil",
+      "size": 10,
+      "numberOfStudents": 10
+    },
+    {
+      "id": "c12",
+      "name": "English",
+      "grade": "Form 3",
+      "fees": "35",
+      "tutor": "Yuki",
+      "size": 15,
+      "numberOfStudents": 9
+    },
+    {
+      "id": "c13",
+      "name": "Science",
+      "grade": "Form 2",
+      "fees": "35",
+      "tutor": "Yuki",
+      "size": 13,
+      "numberOfStudents": 12
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #e0f4ff;
+  color: #1f2937;
+}
+
+.rc-pagination-item-active {
+  background-color: #1f2937 !important;
+}
+
+.rc-pagination-item-active a {
+  color: #fff !important;
+}

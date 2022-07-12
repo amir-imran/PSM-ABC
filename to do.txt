@@ -1,0 +1,16 @@
+// 1. Fix the feedback in the Admin dashboard. 
+// 2. In the Manage Student, change the Update to Student Performance. And Action should contain button to Edit and Delete
+// 3. Manage Tutor and Manage Class should be able to edit the details
+// 4. For the Admin Schedule, it should be able to create a one time event. which have the date of the event, the grade of the event and also the time of the event.
+/ 5. Finance, change Fees to "Expense" and "Profit" to "Revenue". The admin can click on the Income and Expense, and create or edit of the income or expense. The form for Income will consist of "Name", "Amount". And the Expense will also have "Name and Amount". Calculation is "Income"- "Expense" = "revenue". The Revenue will reflected on the Revenue graph for each month revenue.  The right graph, should be a graph of Income and Expense only
+// 6. The Transactions will have a type, which are either income or expense
+// 7. The customer side, change the Manage name to "Class". In the Available class, it should also see the fees for that class
+// 8. At the dashboard, the payment due will have to reflect the due of the customer 
+// 9. The calendar should only show the class of the customer registered class. And there should be one more card, which is student performance card
+// 10. The admin give the performance, and the student should be able to see it in their dashboard
+// 11. Calendar for the student is the same as in the dashboard
+// 12. Remove feedback from the customer view
+// 13. Make add event, calendar
+
+
+Fix the class for each students
